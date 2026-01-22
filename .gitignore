@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ============================================
+# Project-specific: RevEngine
+# ============================================
+
+# Large data files - don't upload to GitHub
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/*.csv
+data/processed/*.csv
+*.csv
+*.xlsx
+*.xls
+
+# Model files (too large for GitHub)
+*.pkl
+*.h5
+*.joblib
+
+# Jupyter Notebook outputs
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Ignore everything in data/raw except README
+data/raw/*
+!data/raw/README.md
+
+# Keep processed data structure but not files
+data/processed/*
+!data/processed/.gitkeep
+!data/processed/README.md
