@@ -192,6 +192,6 @@ The attempted ML models suffered from fundamental issues (data leakage, lack of 
 
 ## 📧 Contact
 
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Your Name** - Nikhil Thamma
+LinkedIn: https://www.linkedin.com/in/nikhilthamma/
+Portfolio: https://nikhilthamma.replit.app/
